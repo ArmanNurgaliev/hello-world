@@ -1,5 +1,5 @@
 # hello-world
 
-Hi, GitHub. My name is Arman, i'm student.
+Hi, GitHub. My name is Arman.
 
 Thanks for reading.
